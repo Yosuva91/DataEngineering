@@ -1,0 +1,26 @@
+Hadoop:
+======
+1. How will you transfer data from Unix system to HDFS ?
+2. How will you find particular text name in your hdfs?
+3. How to count the lines in a file by using linux command?
+4. How do you check the file size in Hadoop?
+5. What are the different type of xml files in Hadoop?
+6. Components of hadoop and their services.
+7. What are the important configuration files in hadoop?
+8. Fault tolerance in case of data node.
+9. What is rack awareness?
+10. Problem with having lots of small files in hfs.
+11. How you can overcome the above?
+12. Main difference between hadoop 1 and hadoop 2.
+13. What is a block scanner in hdfs?
+14. What do you mean by high availability of name node? how is it achieved?
+15. What do you mean by data locality?
+16. Installation modes in hadoop.17. What is the role of combiner in hadoop?
+18. What is the role of partitioner in hadoop?
+19. What is heartbeat?
+20. What is block report?
+21. What is distributed cache?
+22. What factors we should consider before defining the block size?
+23. What is the purpose of record reader?
+24. How is Map reduce is different in Spark than than the traditional hadoop?
+
