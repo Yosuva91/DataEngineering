@@ -1,6 +1,6 @@
 Hadoop:
 ======
-1. How will you transfer data from Unix system to HDFS ?
+# 1. How will you transfer data from Unix system to HDFS ?
 2. How will you find particular text name in your hdfs?
 3. How to count the lines in a file by using linux command?
 4. How do you check the file size in Hadoop?
